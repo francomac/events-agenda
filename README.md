@@ -14,7 +14,7 @@ npm install
 npm run serve
 ```
 
-### Run fake data-base server
+### Run fake-local database server
 
 install json-server to use a fake-local database environment with a db.json file.
 
